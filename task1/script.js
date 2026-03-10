@@ -23,16 +23,16 @@ function renderTasks() {
   });
 }
 
-function addTask() {
-  const taskText = taskInput.value.trim();
-  if (taskText === "") return;
+// function addTask() {
+//   const taskText = taskInput.value.trim();
+//   if (taskText === "") return;
 
-  tasks.push(taskText);
-  saveTasks();
-  renderTasks();
+//   tasks.push(taskText);
+//   saveTasks();
+//   renderTasks();
 
-  taskInput.value = "";
-}
+//   taskInput.value = "";
+// }
 
 function removeTask(index) {
   tasks.splice(index, 1);

@@ -1,0 +1,40 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Senior React Developer",
+      "location": "Addis Ababa, Ethiopia",
+      "salary": "ETB 45,000 - 65,000 / month"
+    },
+    {
+      "id": 2,
+      "title": "Full Stack Engineer (Node.js + React)",
+      "location": "Remote",
+      "salary": "$4,500 - $7,000 / month"
+    },
+    {
+      "id": 3,
+      "title": "Frontend Developer",
+      "location": "Bishoftu, Oromia",
+      "salary": "ETB 28,000 - 40,000 / month"
+    },
+    {
+      "id": 4,
+      "title": "Mobile App Developer (React Native)",
+      "location": "Nairobi, Kenya (Hybrid)",
+      "salary": "KES 250,000 - 400,000 / month"
+    },
+    {
+      "id": 5,
+      "title": "UI/UX Designer",
+      "location": "Remote (Africa timezone)",
+      "salary": "$3,200 - $5,500 / month"
+    },
+    {
+      "id": 6,
+      "title": "Junior JavaScript Developer",
+      "location": "Adama, Oromia",
+      "salary": "ETB 18,000 - 30,000 / month"
+    }
+  ]
+}
